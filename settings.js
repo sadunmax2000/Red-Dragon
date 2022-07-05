@@ -26,7 +26,7 @@ global.owner = ['+940778838273'] //Owner number in aive msg
 global.premium = ['+940778838273'] //Owner Number info
 global.ownernomer = '+940778838273' //Owner Number <<<
 
-global.ownername = 'Devin😼' //Owner Name
+global.ownername = 'Devin😼💖' //Owner Name
 global.botname = ' ☬Devin༒Bot💖' //Bot Name
 
 global.button = '😋Group📍' //Costomize A Button Name In Alive Message
@@ -49,9 +49,9 @@ global.ig = 'https://chat.whatsapp.com/HlbytEHM0PaHCl0zFtUndk ' //Github Account
 global.mess = { // cOSTOMIZE WITH YOUR LANGUAGE
 	
     success: 'Done😋 ✅',
-    admin: 'Only Admins can use it!😂',
+    admin: 'Only Admins can use it!🥹',
     botAdmin: 'Bot wants to be an Admin😥💔',
-    owner: 'Only Owner can use this!😂🙄',
+    owner: 'Only Owner can use this!😂😋',
     group: 'Feature Used Only For Groups!',
     private: 'This Features Only For Private Chat!',
     bot: 'This Feature Is Only For Bot😝',
